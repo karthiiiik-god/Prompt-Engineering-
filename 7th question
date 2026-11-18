@@ -1,0 +1,19 @@
+Read the given patient query and identify the urgency level of the symptoms.
+
+Choose one category from the following:
+
+EMERGENCY, URGENT, ROUTINE, INSUFFICIENT_DATA.
+
+**Instructions:**
+1. Read the patient's symptoms carefully.
+2. If the symptoms may be life-threatening and need immediate medical attention, choose EMERGENCY.
+3. If the symptoms need prompt medical attention, choose URGENT.
+4. If the symptoms are mild and do not require emergency attention, choose ROUTINE.
+5. If the information is not enough to identify the category, choose INSUFFICIENT_DATA.
+6. Do not assume or create any symptoms.
+7. If emergency warning signs are mentioned, choose EMERGENCY immediately.
+8. Give only one category name without any explanation.
+
+**Input:** Patient Query
+
+**Output:** EMERGENCY, URGENT, ROUTINE or INSUFFICIENT_DATA.
