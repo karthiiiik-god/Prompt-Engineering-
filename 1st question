@@ -1,0 +1,18 @@
+Read the given query and identify its category.
+
+Choose the correct category from the following:
+
+Delivery, Shipping, Refund, Payment, Cancellation, Defect, Return, Account, Unknown.
+
+**Instructions:**
+1. Read and understand the given query.
+2. Check whether the query is related to any of the given categories.
+3. Select the category that best matches the query.
+4. If the query is not related to any of these categories, select Unknown.
+5. Do not answer the query or continue the conversation.
+6. Do not ask questions or give explanations.
+7. Do not write anything other than the category name.
+
+**Input:** Customer Query
+
+**Output:** Return only one category name.
