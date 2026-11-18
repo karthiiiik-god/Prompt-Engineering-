@@ -1,0 +1,18 @@
+Read the given customer query and identify how urgent the problem is.
+
+Choose one category from the following:
+
+High, Medium, Low.
+
+**Instructions:**
+1. Read the customer query carefully.
+2. If the problem needs immediate attention, choose High.
+3. If the problem needs attention but is not immediate, choose Medium.
+4. If the problem is a general question or simple request, choose Low.
+5. Select only one suitable category.
+6. Do not answer the query or give any explanation.
+7. Display only the urgency level.
+
+**Input:** Customer Query
+
+**Output:** One word – High, Medium or Low.
