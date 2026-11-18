@@ -1,0 +1,23 @@
+Read the given customer message and collect the required details for booking a flight.
+
+The following information is required:
+
+1. Passenger Name
+2. Departure City
+3. Destination City
+4. Travel Date
+5. Number of Passengers
+6. Travel Class
+
+**Instructions:**
+1. Read the customer's message carefully.
+2. Extract all the information provided by the customer.
+3. Identify which details are missing.
+4. Do not assume or add any information on your own.
+5. Ask the customer clear questions to get the missing details.
+6. Do not ask again for information that is already provided.
+7. If all the required details are available, respond with: "All required information has been provided."
+
+**Input:** Customer Message
+
+**Output:** Display the extracted details, mention missing information and ask questions to collect it.
