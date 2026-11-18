@@ -1,0 +1,15 @@
+Write an email based on the given situation and requirements.
+
+**Instructions:**
+1. Understand the user's request carefully.
+2. Write an email using the requested tone.
+3. Keep the email within the given word limit.
+4. Include only the information provided by the user.
+5. Do not create personal details or reasons on your own.
+6. If any important details are missing, use suitable placeholders.
+7. Include a suitable subject, greeting and closing.
+8. Make sure the email is clear, polite and professional.
+
+**Input:** User's Email Request
+
+**Output:** A complete email following the given instructions.
